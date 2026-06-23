@@ -23,7 +23,9 @@ Review granular confidence scores alongside deep image structural analytics, or 
 
 | Advanced Frame Metrics | Saved Video Library | Processed Frames Gallery |
 |:---:|:---:|:---:|
-| ![Detailed Inference Metrics](images/Screenshot%202026-06-23%20192815.png) | ![Saved Video Gallery](images/Screenshot%202026-06-23%20192753.png) | ![Processed Frames Catalog](images/Screenshot%202026-06-23%20192806.png) |
+| ![Detailed Inference Metrics](images/Screenshot%202026-06-23%20192815.png) 
+![Saved Video Gallery](images/Screenshot%202026-06-23%20192753.png) 
+![Processed Frames Catalog](images/Screenshot%202026-06-23%20192806.png) 
 
 ---
 
@@ -157,7 +159,6 @@ VITE_API_BASE_URL=[http://127.0.0.1:8000](http://127.0.0.1:8000)
 ```bash
 yarn dev
 
-```
 
 
 Open your browser and navigate to the address provided by Vite (typically `http://localhost:5173/`).
