@@ -11,19 +11,19 @@ The main dashboard offers seamless switching between Video and Direct Image anal
 
 | Video Loading View | Direct Image Mode |
 |:---:|:---:|
-| ![Initial Video Workspace](images/Screenshot%202026-06-23%20192713.jpg) | ![Direct Image Analysis](images/Screenshot%202026-06-23%20192733.jpg) |
+| ![Initial Video Workspace](images/Screenshot%202026-06-23%20192713.png) | ![Direct Image Analysis](images/Screenshot%202026-06-23%20192733.png) |
 
 ### 2. Live Video Frame Extraction
 Extract and process discrete frames from active video files at exact timestamps. The backend executes inference over the targeted matrix instantaneously.
 
-![Frame Classification Workspace](images/Screenshot%202026-06-23%20171947.jpg)
+![Frame Classification Workspace](images/Screenshot%202026-06-23%20171947.png)
 
 ### 3. Deep Learning Analytics & Vaults
 Review granular confidence scores alongside deep image structural analytics, or explore history catalogs across standard media galleries.
 
 | Advanced Frame Metrics | Saved Video Library | Processed Frames Gallery |
 |:---:|:---:|:---:|
-| ![Detailed Inference Metrics](images/Screenshot%202026-06-23%20192815.jpg) | ![Saved Video Gallery](images/Screenshot%202026-06-23%20192753.png) | ![Processed Frames Catalog](images/Screenshot%202026-06-23%20192806.jpg) |
+| ![Detailed Inference Metrics](images/Screenshot%202026-06-23%20192815.png) | ![Saved Video Gallery](images/Screenshot%202026-06-23%20192753.png) | ![Processed Frames Catalog](images/Screenshot%202026-06-23%20192806.png) |
 
 ---
 
@@ -161,8 +161,6 @@ yarn dev
 
 
 Open your browser and navigate to the address provided by Vite (typically `http://localhost:5173/`).
-
----
 
 
 
