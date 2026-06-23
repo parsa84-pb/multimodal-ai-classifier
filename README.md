@@ -21,10 +21,16 @@ Extract and process discrete frames from active video files at exact timestamps.
 ### 3. Deep Learning Analytics & Vaults
 Review granular confidence scores alongside deep image structural analytics, or explore history catalogs across standard media galleries.
 
-| Advanced Frame Metrics | Saved Video Library | Processed Frames Gallery |
-|:---:|:---:|:---:|
+| Advanced Frame Metrics | Saved Video Library 
+
 | ![Detailed Inference Metrics](images/Screenshot%202026-06-23%20192815.png) 
+
+| Saved Video Library |
+
 ![Saved Video Gallery](images/Screenshot%202026-06-23%20192753.png) 
+
+| Processed Frames Gallery |
+
 ![Processed Frames Catalog](images/Screenshot%202026-06-23%20192806.png) 
 
 ---
